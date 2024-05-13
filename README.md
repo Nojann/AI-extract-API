@@ -14,5 +14,4 @@ To use this project take care about ;
 	- > /bin/bash/ docker compose  up -d  
 
 - .env configuration (db user, name, port, password, etc.)
-- 
 
