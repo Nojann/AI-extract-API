@@ -10,3 +10,12 @@ To use this project take care about ;
 	- > /bin/bash/ docker compose  up -d
 
 - .env configuration (db user, name, port, password, etc.)
+
+- Adonis Command-line Environment
+  - > node ace
+
+- Lancer le serveur
+  - > node ace serve --watch
+
+- Créer un controller CRUD
+  - > node ace make:controller posts --resource
